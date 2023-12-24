@@ -1,0 +1,13 @@
+2023/12/24-22:30:23.360 4e90 Recovering log #252
+2023/12/24-22:30:23.361 4e90 Level-0 table #256: started
+2023/12/24-22:30:23.366 4e90 Level-0 table #256: 58037 bytes OK
+2023/12/24-22:30:23.373 4e90 Delete type=2 #248
+2023/12/24-22:30:23.373 4e90 Delete type=2 #249
+2023/12/24-22:30:23.374 4e90 Delete type=2 #251
+2023/12/24-22:30:23.374 4e90 Delete type=0 #252
+2023/12/24-22:30:23.374 4e90 Delete type=3 #250
+2023/12/24-22:30:23.380 4bdc Compacting 1@0 + 2@1 files
+2023/12/24-22:30:23.462 4bdc Generated table #258@0: 14015 keys, 2142775 bytes
+2023/12/24-22:30:23.503 4bdc Generated table #259@0: 9588 keys, 1263785 bytes
+2023/12/24-22:30:23.503 4bdc Compacted 1@0 + 2@1 files => 3406560 bytes
+2023/12/24-22:30:23.504 4bdc compacted to: files[ 0 2 0 0 0 0 0 ]
